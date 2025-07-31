@@ -28,9 +28,9 @@ const ContactSection = () => {
       if (response.ok) {
         alert("Message sent successfully!");
       } else {
-        alert("Error: Something went wrong");
+        alert("Error Something went wrong");
       }
-    } catch (error) {
+    } catch {
       alert("Error submitting the form. Please try again.");
     }
 
