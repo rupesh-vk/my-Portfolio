@@ -9,16 +9,16 @@ export default function AboutSection() {
         <Card>
           <CardContent className="p-6 space-y-4 text-lg leading-relaxed text-muted-foreground">
             <p>
-              I'm a recent Computer Science graduate with a passion for software development and tech innovation.
-              I’ve developed a strong foundation in algorithms, design, and full-stack engineering.
+              I&apos;m a recent Computer Science graduate with a passion for software development and tech innovation.
+              I&apos;ve developed a strong foundation in algorithms, design, and full-stack engineering.
             </p>
             <p>
               I love solving real-world problems, and I enjoy working on both frontend and backend systems.
-              I’m especially passionate about building clean UIs and scalable APIs.
+              I&apos;m especially passionate about building clean UIs and scalable APIs.
             </p>
             <p>
-              I'm now looking to grow in a collaborative team, contribute meaningfully, and keep learning.
-              Let's build something great together.
+              I&apos;m now looking to grow in a collaborative team, contribute meaningfully, and keep learning.
+              Let&apos;s build something great together.
             </p>
           </CardContent>
         </Card>
